@@ -23,15 +23,15 @@ The application works as follows: select a grid that denotes your location on th
 
 ##### The main interface of the application
 
-![Main interface](https://dl.dropbox.com/s/rvqp2ychad0fjua/android1.png "Main interface")
+![Main interface](https://dl.dropbox.com/s/h2une8tjd9zgsze/android1.png "Main interface")
 
 ##### WiFi scan in progress
 
-![WiFi scan](https://dl.dropbox.com/s/3kuwhxl260kczd7/android2.png "WiFi scan")
+![WiFi scan](https://dl.dropbox.com/s/lipi3w82y0agrjz/android2.png "WiFi scan")
 
 ##### The settings menu
 
-![Settings menu](https://dl.dropbox.com/s/7k1w1gaowirnlve/android3.png "Settings menu")
+![Settings menu](https://dl.dropbox.com/s/brzmpqrh2p6hrok/android3.png "Settings menu")
 
 License
 -------
