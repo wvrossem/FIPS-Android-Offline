@@ -23,15 +23,15 @@ The application works as follows: select a grid that denotes your location on th
 
 ##### The main interface of the application
 
-![Main interface](https://dl.dropbox.com/s/h2une8tjd9zgsze/android1.png "Main interface")
+![Main interface](assets/screenshots/android1.png "Main interface")
 
 ##### WiFi scan in progress
 
-![WiFi scan](https://dl.dropbox.com/s/lipi3w82y0agrjz/android2.png "WiFi scan")
+![WiFi scan](assets/screenshots/android2.png "WiFi scan")
 
 ##### The settings menu
 
-![Settings menu](https://dl.dropbox.com/s/brzmpqrh2p6hrok/android3.png "Settings menu")
+![Settings menu](assets/screenshots/android3.png "Settings menu")
 
 License
 -------
@@ -39,6 +39,3 @@ License
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
-
-
-
